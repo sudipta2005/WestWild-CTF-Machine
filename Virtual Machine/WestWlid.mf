@@ -1,0 +1,2 @@
+SHA256(WestWlid.ovf)= 0e57ba17f0aece6470e5dd34c6798edf6faa41a029a451c3eef0e3587f10b053
+SHA256(WestWlid-disk1.vmdk)= f6c4a4efcc8db8f5827db2429d51e74c898e0c0a40962d6cf623b1d8e230190e
